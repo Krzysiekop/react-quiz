@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Krzysiekop/react-quiz.git/static/css/main.beb13c0a.css",
+    "main.js": "/Krzysiekop/react-quiz.git/static/js/main.1920ef40.js",
+    "index.html": "/Krzysiekop/react-quiz.git/index.html",
+    "main.beb13c0a.css.map": "/Krzysiekop/react-quiz.git/static/css/main.beb13c0a.css.map",
+    "main.1920ef40.js.map": "/Krzysiekop/react-quiz.git/static/js/main.1920ef40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beb13c0a.css",
+    "static/js/main.1920ef40.js"
+  ]
+}
